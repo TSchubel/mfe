@@ -10,7 +10,6 @@ on:
 #on : defini quand nous souhaitons executer l action
 #l action sera sur le push event, dans la branche main
 
-
 defaults:
   run:
     working-directory: packages/container
